@@ -150,7 +150,7 @@ scores.sort((a,b) => b - a);
 // KEEP TOP 100
 scores = scores.slice(0,100);
 
-// SAVE SCORES
+// SAVE SCORES 
 localStorage.setItem(
   "scores",
   JSON.stringify(scores)
@@ -166,7 +166,8 @@ alert(
 
 level = 1;
 score = 0;
-
+        
+//ARKA IS A GOOD CODER
 createLevel();
 
         createLevel();
