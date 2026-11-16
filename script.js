@@ -169,8 +169,6 @@ score = 0;
         
 //ARKA IS A GOOD CODER
 createLevel();
-
-        createLevel();
       }
     });
 
